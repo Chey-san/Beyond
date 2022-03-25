@@ -23,7 +23,6 @@ declare module "pokedex-promise-v2";
 declare module "imgbb-uploader";
 declare module "string-capitalize-name";
 declare module "vtuber-wiki";
-declare module "parse-ms-js"
 declare module "node-myanimelist";
 declare module "discord-image-generation";
 declare module "discord-canvas";
@@ -31,4 +30,5 @@ declare module "ordinal";
 declare module "parse-ms-js";
 declare module "@shineiichijo/marika";
 declare module "anime-quiz";
-declare module "chess-image-generator-ts";
+declare module "images-generator";
+declare module "lolis.life";
